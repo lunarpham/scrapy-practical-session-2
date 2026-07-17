@@ -10,7 +10,7 @@ scrapy crawl population -o population.csv
 
 The output file `population.csv` will be created in the project root.
 
-## Data Collected
+## Data collected
 
 | Column | Description |
 |--------|-------------|
